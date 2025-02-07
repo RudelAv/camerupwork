@@ -1,6 +1,5 @@
-# pfe
-
-A new Flutter project.
+# CamerUpWork
+A freelance mobile app for Self-employed persons.
 
 ## Getting Started
 
